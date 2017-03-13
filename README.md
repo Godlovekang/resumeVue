@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # coolresume4
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# resumeVue
+>>>>>>> 1ed9a3996188e1ec0b0f5c71abc1218d9db1c800
