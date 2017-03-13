@@ -30,7 +30,7 @@
 
  /** 
   * 我要开始咯~                
-  * 先来点过渡效果吧                
+  * 先来点过渡效果吧！                
   */
 
 * {
@@ -82,9 +82,8 @@ html {
 /* 好了，我现在要找一个看着顺眼的位置。。。 */
 @keyframes toright {
   0% {
-    margin: 10px;
     -webkit-transform: rotateY(10deg) translateZ(-50px);
-          transform: rotateY(10deg) translateZ(-50px);
+            transform: rotateY(10deg) translateZ(-50px);
   }
   100% {
     margin-left: 55vw;
@@ -122,6 +121,8 @@ html {
     <h2 class="name">王康</h2>
     <p class="base-info">男，25岁，毕业于江苏师范大学</p>
     <p>电话：13675209645   邮箱：wangkang3034@163.com</p>
+    <h3>应聘职位</h3>
+    <p>前端工程师</p>
     <h3 class="title">工作经历</h3>
     <p>2015 年 1 月至 2016 年 5 月就职于 连云港铭华环保材料有限公司</p>
     <p>任前端开发工程师</p>
@@ -243,7 +244,7 @@ html {
     </ul>
      `, `
 /**                     
- * 额 ...
+ * 呃 ...
  * 这是什么鬼 ...            
  * 是不是感觉很乱？                            
  * 下面就是见证奇迹的时刻！          
